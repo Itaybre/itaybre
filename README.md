@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Linkedin Badge](https://img.shields.io/badge/-itaybrenner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itaybrenner/)](https://www.linkedin.com/in/itaybrenner)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=itaybre.visitor-badge&left_color=green&right_color=red)
+[![visitors](https://page-views.glitch.me/badge?page_id=itaybre.visitor-badge&left_color=green&right_color=red)](https://github.com/itaybre/itaybre)
 [![GitHub followers](https://img.shields.io/github/followers/itaybre?label=Follow&style=social)](https://github.com/itaybre/?tab=follow)
 
 I'm an iOS Software Engineer from Montevideo, Uruguay. 
